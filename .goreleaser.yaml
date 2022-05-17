@@ -20,7 +20,7 @@ universal_binaries:
 brews:
   -
     name: carthage-cli
-    homepage: https://github.com/Abdelwaeb-Hnaien/carthage-cli
+    homepage: https://github.com/Abdelwaeb-Hnaien/homebrew-carthage-cli
     tap:
       owner: ahnaien
       name: homebrew-carthage-cli
