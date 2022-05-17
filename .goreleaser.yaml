@@ -22,11 +22,11 @@ brews:
     name: carthage-cli
     homepage: https://github.com/Abdelwaeb-Hnaien/homebrew-carthage-cli
     tap:
-      owner: ahnaien
+      owner: Abdelwaheb-Hnaien
       name: homebrew-carthage-cli
-    commit_author:
-      name: abdel
-      email: abdelwaheb.hnaien@gmail.com
+    # commit_author:
+    #   name: abdel
+    #   email: abdelwaheb.hnaien@gmail.com
 
 checksum:
   name_template: 'checksums.txt'
