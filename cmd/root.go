@@ -25,7 +25,7 @@ to quickly create a Cobra application.`,
 	// Uncomment the following line if your bare application
 	// has an action associated with it:
 	Run: func(cmd *cobra.Command, args []string) {
-		CARTHAGE_CLI_VERSION := "0.2.0"
+		CARTHAGE_CLI_VERSION := "0.1.3"
 		isSet:=cmd.Flags().Lookup("version").Changed
 		if isSet {
 			fmt.Println(CARTHAGE_CLI_VERSION)
